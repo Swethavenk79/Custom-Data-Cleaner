@@ -1,0 +1,8 @@
+Name,Age,Email,Country,JoinDate,Score
+Alice,25,alice@example.com,USA,2023-01-15,88
+Bob,30,bob@example.com,Canada,2023-02-20,75
+Charlie,35,charlie@example.com,UK,2023-03-10,92
+Alice,25,alice@example.com,USA,2023-01-15,88
+Eve,,eve@example.com,India,2023-04-05,80
+Frank,28,frank@example.com,Germany,2023-05-12,
+Grace,40,grace@example.com,USA,2023-06-01,95

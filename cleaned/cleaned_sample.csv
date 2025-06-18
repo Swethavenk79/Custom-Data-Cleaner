@@ -1,0 +1,5 @@
+name,age,email,country,joindate,score
+Alice,25.0,alice@example.com,USA,2023-01-15,88.0
+Bob,30.0,bob@example.com,Canada,2023-02-20,75.0
+Charlie,35.0,charlie@example.com,UK,2023-03-10,92.0
+Grace,40.0,grace@example.com,USA,2023-06-01,95.0
